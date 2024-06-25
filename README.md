@@ -8,3 +8,8 @@ Compreendemos a importância de validar as informações que estamos recebendo d
 
 Exploramos o uso do bloco de repetição for e entendemos a necessidade de seu uso para iterar de maneira eficaz uma sequência de dados e manter nosso código legível e de fácil manutenção.
 
+Exploramos o conceito de dicionários e compreendemos sua capacidade de representar informações de maneira estruturada e de fácil acesso;
+
+Compreendemos a importância de utilizar operadores ternários para expressar decisões em uma única linha, tornando o código mais compacto e fácil de entender, melhorando a performance e manutenção do nosso projeto;
+
+Construímos nosso projeto com todas as opções de cadastro, listagem e alteração de estado do restaurante, assim como a possibilidade de sair da aplicação.
